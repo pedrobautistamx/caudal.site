@@ -2,7 +2,7 @@ title: Lab 6 - Clustering
 ---
 Guía que muestra el uso de Caudal en un ambiente distribuido como se muestra en la siguiente imagen.
 
-![caudal cluster](lab6-01.png)
+![caudal cluster](lab6-01.svg)
 
 ## Requerimientos
  * Haber completado exitosamente la *Guía 5* [Caudal Integration](lab5.html)
